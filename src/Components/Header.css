@@ -1,0 +1,29 @@
+.heading{
+    font-weight: 700;
+    font-size: x-large;
+    text-transform: uppercase;
+    
+  
+    
+}
+.head{
+    text-align: center;
+    padding-top: 0.02px;
+    
+    
+   
+}
+.border{
+    
+   border-bottom: 2px solid #ccc;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    background-color: white;
+    
+    
+    
+    
+}

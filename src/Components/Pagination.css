@@ -1,0 +1,53 @@
+button{
+    background-color: transparent;
+  
+}
+
+.btn{
+    border: 2px solid #ccc;
+    border-radius: 0.375rem;
+    /* padding: 0.04rem 1rem; */
+    padding: 0.3rem 1rem;
+}
+.btn:hover{
+    cursor: pointer;
+
+}
+.page{
+    font-weight: bold;
+    font-size: 0.875rem;
+}
+.fir{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid #ccc;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    z-index: 1000;
+    background-color: white;
+    
+    
+}
+.sec{
+    width: 91.666667%;
+    max-width: 640px;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.thir{
+    display: flex;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    
+    
+   
+
+}
+.btn{
+    margin-right: 1rem;
+}
